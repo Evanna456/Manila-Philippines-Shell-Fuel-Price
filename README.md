@@ -15,7 +15,7 @@ Forecasting Shell Fuel Price.
 The Jupyter Notebook is the original web application for creating and sharing computational documents. It offers a simple, streamlined, document-centric experience.
 
 * [Github](https://github.com/jupyter/notebook)
-* [Documentation](https://jupyter-notebook.readthedocs.io/en/stable/
+* [Documentation](https://jupyter-notebook.readthedocs.io/en/stable/)
 
 ## License
 
