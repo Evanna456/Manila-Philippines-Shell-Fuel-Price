@@ -6,7 +6,7 @@ Forecasting Shell Fuel Price.
 
 * 1.)Download and Install [Python](https://www.python.org/).
 * 2.)Download and Install [Jupyter Notebook](https://jupyter.org/).
-* 2.)Run Jupyter Notebook and open the file.
+* 3.)Run Jupyter Notebook and open the file.
 
 ## Jupyter Notebook
 
